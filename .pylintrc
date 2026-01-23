@@ -1,0 +1,12 @@
+[MESSAGES CONTROL]
+# Disable docstring warnings for the entire project
+disable=
+    missing-module-docstring,
+    missing-class-docstring,
+    missing-function-docstring,
+    line-too-long,
+    global-statement,
+    raise-missing-from,
+    unused-argument,
+    redefined-outer-name,
+    too-few-public-methods
