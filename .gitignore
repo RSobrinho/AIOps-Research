@@ -14,3 +14,7 @@ wheels/
 
 # others
 notas.txt
+
+*.csv
+*.png
+tests/
